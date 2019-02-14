@@ -15,6 +15,5 @@ class GetNetAddress {
 
     byte[] result = mask;// & address.getBytes();
     System.out.println(result);
-
   }
 }
