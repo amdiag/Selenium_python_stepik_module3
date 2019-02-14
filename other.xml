@@ -1,0 +1,19 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1550144999987" />
+    <option name="shownCourseIds">
+      <set />
+    </option>
+    <option name="user">
+      <StepikUser>
+        <option name="accessToken" value="OtaERIsWsCFtomjffz2YyNCVQnu9Bx" />
+        <option name="expiresIn" value="1550181355" />
+        <option name="refreshToken" value="UTIroeceMqvbbDoZWpe4mAaI9TU8vM" />
+        <option name="firstName" value="Федор" />
+        <option name="guest" value="false" />
+        <option name="id" value="44746276" />
+        <option name="lastName" value="Кудряков" />
+      </StepikUser>
+    </option>
+  </component>
+</application>
