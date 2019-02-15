@@ -7,13 +7,37 @@ class GetNetAddress {
       return;
     }
 
-    byte[] address = args[0].getBytes();
-    byte[] mask = args[1].getBytes();
+    String address[] = args[0].split(".");
+    String mask[] = args[1].split(".");
+
+    if ( mask.length != 4 || address.length != 4 ){
+      System.out.println("Wrong ip address");
+      return;
+    }
+
+    for (int i = 0; i < 4; i++){
+      if ( (Integer.parseInt( mask[i] ) <= 0 & Integer.parseInt( mask[i] ) >= 255 ) ||
+              (Integer.parseInt( address[i] ) <= 0 & Integer.parseInt( address[i]) >= 255 ) ){
+        System.out.println("Wrong ip address");
+        return;
+      }
+    }
+
+
+
 
     //if (){}
 
 
-    byte[] result = mask;// & address.getBytes();
-    System.out.println(result);
+    //byte[] result = mask;// & address.getBytes();
+    System.out.println( resultAND( address, mask ) );
+  }
+
+  private static String resultAND(String[] address, String[] mask){
+    byte[] result = null;
+    String addrNet = null;
+
+
+    return addrNet;
   }
 }
