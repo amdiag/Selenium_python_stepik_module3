@@ -1,5 +1,8 @@
 class CaesarCipher {
   public static void main(String[] args) {
-    // put your code here
+    if ( args.length < 3 ){
+      System.out.println("Wrong arguments");
+      return;
+    }
   }
 }
