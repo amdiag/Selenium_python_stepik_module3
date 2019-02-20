@@ -4,5 +4,14 @@ class CaesarCipher {
       System.out.println("Wrong arguments");
       return;
     }
+
+    if( args[0].equals("-d") ){       //decode
+
+    }
+    else if( args[0].equals("-e") ){    //encode
+
+    }
+    else return;
+
   }
 }
