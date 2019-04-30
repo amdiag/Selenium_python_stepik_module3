@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Exam-questions-Theory_main" target="1.8" />
+      <module name="Exam-questions-Theory_test" target="1.8" />
+      <module name="Java._Exceptions._Maven._SOLID-lec3-Theory_main" target="1.8" />
+      <module name="Java._Exceptions._Maven._SOLID-lec3-Theory_test" target="1.8" />
+      <module name="Java._Generics_and_Collections-lec5-Theory_main" target="1.8" />
+      <module name="Java._Generics_and_Collections-lec5-Theory_test" target="1.8" />
+      <module name="Java._I_O-lec4-Theory_main" target="1.8" />
+      <module name="Java._I_O-lec4-Theory_test" target="1.8" />
+      <module name="Java._Lambda_expressions_and_Stream_API-lec6-Theory_main" target="1.8" />
+      <module name="Java._Lambda_expressions_and_Stream_API-lec6-Theory_test" target="1.8" />
+      <module name="Java._Multithreading-lec7-Theory_main" target="1.8" />
+      <module name="Java._Multithreading-lec7-Theory_test" target="1.8" />
+      <module name="JAVA.Introduction-lab1-Linux_main" target="1.8" />
+      <module name="JAVA.Introduction-lab1-Linux_test" target="1.8" />
+      <module name="Java.OOP-lab2-task1_main" target="1.8" />
+      <module name="Java.OOP-lab2-task1_test" target="1.8" />
+      <module name="Java.OOP-lab2-task2_main" target="1.8" />
+      <module name="Java.OOP-lab2-task2_test" target="1.8" />
+      <module name="Java.OOP-lab2-task3_main" target="1.8" />
+      <module name="Java.OOP-lab2-task3_test" target="1.8" />
+      <module name="Java.OOP-lab2-task4_main" target="1.8" />
+      <module name="Java.OOP-lab2-task4_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
