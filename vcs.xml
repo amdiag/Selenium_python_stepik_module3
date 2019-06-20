@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/amdiag/stepic_py-sel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amdiag/dev-intensive-2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\fkudriak\IdeaProjects" />
