@@ -20,6 +20,12 @@
         </option>
       </SdkSettings>
     </option>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="enableAutoCheck" value="false" />
+        <option name="installedPluginVersion" value="3.4.0" />
+      </UpdaterSettings>
+    </option>
     <option name="webEngineSettings">
       <WebEngineSettings>
         <option name="nativePath" value="C:\Users\fkudriak/.IdeaIC2019.3/system\studio_cef_native" />
