@@ -26,6 +26,10 @@
           <option name="url" value="https://gitlab.com/fkudriakov/labs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.100.106.6:4436" />
+          <option name="userName" value="fkudriakov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\fkudriak\IdeaProjects" />
