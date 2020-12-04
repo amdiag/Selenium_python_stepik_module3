@@ -34,9 +34,17 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="fkudriakov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.devops.telekom.de/atm-systems-workbench/perfas_dev/www.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.devops.telekom.de" />
+          <option name="userName" value="Fedor.Kudriakov@t-systems.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\fkudriak\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\WorkData" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
