@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Lab0" type="CLASS" />
+      <removed_mapping ext="feature" type="Cucumber" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
