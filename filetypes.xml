@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Lab0" type="CLASS" />
-      <mapping ext="feature" type="Cucumber" />
+      <removed_mapping ext="feature" type="Cucumber" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
-      <removed_mapping ext="feature" type="Substeps" />
+      <mapping ext="feature" type="Substeps" />
     </extensionMap>
   </component>
 </application>
